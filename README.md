@@ -71,17 +71,17 @@ Paso 3: vamos habilitar la función del subsistema Linux,con lo cual se vuelve a
 Paso 4: elegimos la distribución de Linux que nos apetezca en la tienda de Microsoft store.en este caso es Ubuntu 20.04.4 TLS
 
 
-![imagen 9](imagenes/wsl23.png)
+![imagen 9](imagenes/wsl2_3.png)
 
 Paso 5: se debe ejecutar el comando wsl –l para enumerar todos los subsistemas instalados, se dice error  debe volver a l paso 2 para retomar las pasos y si solo se necesita es reiniciar. si se ha hecho de manera correcta  entonces sale en la lista la versión de Ubuntu y debían instalados con anterioridad 
 
-![imagen 10](imagenes/wsl24.png)
+![imagen 10](imagenes/wsl2_4.png)
 Paso 6:actualizar los paquetes de las versiones de distribuciones instaladas
 Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero actualizarlo mas completo se pone sudo apt upgrade
 punto 6.
 ![imagen 11](imagenes/comando.JPG)
 punto 7.  
-![imagen 12](imagenes/wsl25.png)
+![imagen 12](imagenes/wsl2_5.png)
 
 punto 8.
 
