@@ -82,7 +82,7 @@ Paso 6:actualizar los paquetes de las versiones de distribuciones instaladas
 Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero actualizarlo mas completo se pone sudo apt upgrade
 # punto 6.  ubuntu 20.04.4 LTS
 ![imagen 11](imagenes/comando.JPG)
-punto 7.  
+# punto 7.  
 ![imagen 12](imagenes/wsl2_5.png)
 
 
