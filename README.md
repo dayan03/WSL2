@@ -48,7 +48,6 @@ para tener acceso al archivo wls2 con Ubuntu a Windows es de la siguiente manera
  WSL 2 ofrece las ventajas de WSL 1, incluida una integración perfecta entre Windows y Linux, tiempos de arranque más breves y una superficie de recursos pequeña. Además, no requiere ninguna configuración ni administración de las VM. Aunque WSL 2 usa una VM, se administra y se ejecuta en segundo plano, lo que te permite disfrutar de la misma experiencia de usuario que WSL 1.
 
 5.
-5.
 INSTALACIÓN de WLS2
 
 para instalar wsl se necesita digirir a panel de control
@@ -81,10 +80,11 @@ Paso 5: se debe ejecutar el comando wsl –l para enumerar todos los subsistemas
 ![imagen 10](imagenes/wsl2_4.png)
 Paso 6:actualizar los paquetes de las versiones de distribuciones instaladas
 Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero actualizarlo mas completo se pone sudo apt upgrade
-punto 6.
+punto 6.  ubuntu 20.04.4 LTS
 ![imagen 11](imagenes/comando.JPG)
 punto 7.  
 ![imagen 12](imagenes/wsl2_5.png)
+
 
 punto 8.
 
