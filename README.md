@@ -44,7 +44,10 @@ para tener acceso al archivo wls2 con Ubuntu a Windows es de la siguiente manera
 
 4.  VENTAJAS
 
-5. 
+
+ WSL 2 ofrece las ventajas de WSL 1, incluida una integración perfecta entre Windows y Linux, tiempos de arranque más breves y una superficie de recursos pequeña. Además, no requiere ninguna configuración ni administración de las VM. Aunque WSL 2 usa una VM, se administra y se ejecuta en segundo plano, lo que te permite disfrutar de la misma experiencia de usuario que WSL 1.
+
+5.
 5.
 INSTALACIÓN de WLS2
 
