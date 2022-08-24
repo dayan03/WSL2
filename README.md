@@ -66,7 +66,7 @@ Windows power Shell  2.0 para poder reiniciar y guardar los cambios
 
 Wsl 2 se encuentra en Windows  10
 
-![imagen 8](imagenes/wsl2_2.png)
+![imagen 8](imagenes/wsl22.png)
 
 
 
