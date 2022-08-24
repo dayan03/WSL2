@@ -2,7 +2,6 @@
 ## Laboratorio 1
 
 1. crear repositorio
-
 2. 
 La arquitectura de WSL2
 Esta permite que el subsistema  de windows para Linux se ejecute archivos binarios  de linux en Windows, para aumentar el rendimiento del sistema de archivos y hacer compatible con la funciones del sistema.
@@ -37,21 +36,23 @@ para tener acceso al archivo wls2 con Ubuntu a Windows es de la siguiente manera
 ![imagen 3](imagenes/archivo3.png)
 ![imagen 4](imagenes/archivo4.png)
 
-3. Diagrama de bloques
+3. # Diagrama de bloques
 
 ![imagen 5](imagenes/arquitectura1.png)
 ![imagen 6](imagenes/arquitectura2.png)
 
 4.  VENTAJAS
+    Este permite a los desarrolladores  usar las herramientas los servicios de Linux  desde Windows sin necesidad de montar la infraestructura que se requiere al momento de ejecutar un aplicativo, permitiendo que los comandos de Linux se puedan utilizar en Windows, esta aplicación es útil para los principiantes en el sistema Linux, y además  al momento de cometer un error, se puede reiniciar el distro de wsl sin que afecte el sistema Windows
+    Además WSL 2 ofrece las ventajas de WSL 1, incluida una integración perfecta entre Windows y Linux, tiempos de arranque más breves y una superficie de recursos pequeña. Además, no requiere ninguna configuración ni administración de las VM. Aunque WSL 2 usa una VM, se administra y se ejecuta en segundo plano, lo que te permite disfrutar de la misma experiencia de usuario que WSL 1.
 
 
- WSL 2 ofrece las ventajas de WSL 1, incluida una integración perfecta entre Windows y Linux, tiempos de arranque más breves y una superficie de recursos pequeña. Además, no requiere ninguna configuración ni administración de las VM. Aunque WSL 2 usa una VM, se administra y se ejecuta en segundo plano, lo que te permite disfrutar de la misma experiencia de usuario que WSL 1.
+
 
  # 5.
 INSTALACIÓN de WLS2
 
-para instalar wsl se necesita digirir a panel de control
-luego seleccionar características de  programa
+para instalar wsl se necesita digirir a panel de control,
+luego seleccionar características de  programa,
 luego  características Windows
 y habilitar las casillas 
 subsistema de Windows  para Linux
@@ -60,8 +61,14 @@ Windows power Shell  2.0 para poder reiniciar y guardar los cambios
 
 
 ![imagen 7](imagenes/wsl2.png)
+
 Wsl 2 se encuentra en Windows  10
+<<<<<<< HEAD
 ![imagen 8](imagenes/wsl2_2.png)
+=======
+
+![imagen 8](imagenes/wsl22.png)
+>>>>>>> 2db8ec3 (c-7)
 
 Paso 1:escribir en el buscador de Windows winver y le damos aceptar aperece la versión respectiva
 
@@ -78,6 +85,7 @@ Paso 4: elegimos la distribución de Linux que nos apetezca en la tienda de Micr
 Paso 5: se debe ejecutar el comando wsl –l para enumerar todos los subsistemas instalados, se dice error  debe volver a l paso 2 para retomar las pasos y si solo se necesita es reiniciar. si se ha hecho de manera correcta  entonces sale en la lista la versión de Ubuntu y debían instalados con anterioridad 
 
 ![imagen 10](imagenes/wsl2_4.png)
+
 Paso 6:actualizar los paquetes de las versiones de distribuciones instaladas
 Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero actualizarlo mas completo se pone sudo apt upgrade
 # punto 6.  ubuntu 20.04.4 LTS
