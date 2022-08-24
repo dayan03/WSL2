@@ -42,7 +42,9 @@ para tener acceso al archivo wls2 con Ubuntu a Windows es de la siguiente manera
 ![imagen 6](imagenes/arquitectura2.png)
 
 4.  VENTAJAS
+
     Este permite a los desarrolladores  usar las herramientas los servicios de Linux  desde Windows sin necesidad de montar la infraestructura que se requiere al momento de ejecutar un aplicativo, permitiendo que los comandos de Linux se puedan utilizar en Windows, esta aplicación es útil para los principiantes en el sistema Linux, y además  al momento de cometer un error, se puede reiniciar el distro de wsl sin que afecte el sistema Windows
+
     Además WSL 2 ofrece las ventajas de WSL 1, incluida una integración perfecta entre Windows y Linux, tiempos de arranque más breves y una superficie de recursos pequeña. Además, no requiere ninguna configuración ni administración de las VM. Aunque WSL 2 usa una VM, se administra y se ejecuta en segundo plano, lo que te permite disfrutar de la misma experiencia de usuario que WSL 1.
 
 
@@ -63,12 +65,13 @@ Windows power Shell  2.0 para poder reiniciar y guardar los cambios
 ![imagen 7](imagenes/wsl2.png)
 
 Wsl 2 se encuentra en Windows  10
-<<<<<<< HEAD
+
 ![imagen 8](imagenes/wsl2_2.png)
-=======
+
+
 
 ![imagen 8](imagenes/wsl22.png)
->>>>>>> 2db8ec3 (c-7)
+
 
 Paso 1:escribir en el buscador de Windows winver y le damos aceptar aperece la versión respectiva
 
