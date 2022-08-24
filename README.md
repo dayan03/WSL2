@@ -69,10 +69,6 @@ Wsl 2 se encuentra en Windows  10
 ![imagen 8](imagenes/wsl22.png)
 
 
-
-![imagen 8](imagenes/wsl22.png)
-
-
 Paso 1:escribir en el buscador de Windows winver y le damos aceptar aperece la versión respectiva
 
 Paso2.habilitar la plataforma de la maquina virtual,  ejecutando el  powershell con modo administrador.
