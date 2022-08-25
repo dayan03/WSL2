@@ -116,4 +116,6 @@ en este comando podemos observar que la version de wsl esta correctamente instal
 
 ![imagen 17](imagenes/wsl2_10.png)
 
+lista de distribuciones que se instalo
+
 ![imagen 18](imagenes/wsl2_11.png)
