@@ -108,14 +108,14 @@ Acontinuacion probaremos los comando anteriormente mencionados
 
 Este comando  se debe hacer iniciando powershell como administrador para que le de permisos y le permita actualizar
 
-![imagen 15](imagenes/wsl2_8.png)
+![imagen 14](imagenes/wsl2_8.png)
 
 en este comando podemos observar que la version de wsl esta correctamente instalada
 
-![imagen 16](imagenes/wsl29.png)
+![imagen 14](imagenes/wsl29.png)
 
-![imagen 17](imagenes/wsl210.png)
+![imagen 14](imagenes/wsl210.png)
 
 lista de distribuciones que se instalo
 
-![imagen 18](imagenes/wsl211.png)
+![imagen 14](imagenes/wsl211.png)
