@@ -106,4 +106,6 @@ Acontinuacion probaremos los comando anteriormente mencionados
 
 ![imagen 14](imagenes/wsl2_7.png)
 
+Este comando  se debe hacer iniciando powershell como administrador para que le de permisos y le permita actualizar
 
+![imagen 14](imagenes/wsl2_8.png)
