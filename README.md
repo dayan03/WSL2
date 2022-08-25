@@ -112,11 +112,11 @@ Este comando  se debe hacer iniciando powershell como administrador para que le 
 
 en este comando podemos observar que la version de wsl esta correctamente instalada
 
-![imagen 16](imagenes/wsl29.png)
+![imagen 16](imagenes/wsl2_9.png)
 
-![imagen 17](imagenes/wsl210.png)
+![imagen 17](imagenes/wsl2_10.png)
 
 
 lista de distribuciones que se instalo
 
-![imagen 14](imagenes/wsl211.png)
+![imagen 18](imagenes/wsl2_11.png)
