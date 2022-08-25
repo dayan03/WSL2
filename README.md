@@ -93,9 +93,7 @@ Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero ac
 ![imagen 12](imagenes/wsl2_5.png)
 
 
-# punto 8.
-
-# punto 9.
+# punto 8 y 9.
 
 pruebas en la consola de Linux para probar funcionalidad
 
