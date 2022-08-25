@@ -96,3 +96,14 @@ Sudo apt update y luego nos pide contraseña para descargar los paquetes,pero ac
 # punto 8.
 
 # punto 9.
+
+pruebas en la consola de Linux para probar funcionalidad
+
+Acontinuacion probaremos los comando anteriormente mencionados
+
+![imagen 13](imagenes/wsl2_6.png)
+
+
+![imagen 14](imagenes/wsl2_7.png)
+
+
